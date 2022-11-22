@@ -1,4 +1,4 @@
-## En utilisant Ansible, nous souhaitons déployer notre application sur deux environnements différents, exécuter les tests et récupérer le résultat des tests.
+## En utilisant Ansible, nous souhaitons déployer notre application sur deux environnements différents, exécuter le script et afficher son résultat.
 
 Créer un playbook qui permet de :
 - Installer Git et Pip
